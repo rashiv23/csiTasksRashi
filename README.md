@@ -78,11 +78,9 @@
         </div>
       </div>
     </div>
-
     <div class="part2">
       <img src="./phone.png" alt="phone">
     </div>
-
     <div class="part3">
       <div class="heads2">
         <div class="imageAdd2">
@@ -122,9 +120,8 @@
       </div>
     </div>
   </div>
-</div>
-
-
+  </div>
+  
   <div id="thirdPage1">
  
   <h2 class="head3">Read Our Rave Reviews</h2>
@@ -151,7 +148,6 @@
       <p class="lorem1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     </div>
   </div>
-     
 </div>
 
   <div class="lastPage" id="lastPage1" style="background-color: #4019B2;">
