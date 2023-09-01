@@ -17,16 +17,16 @@
       </div>
      <div class="col-lg-10">
         <ul class="menu">
-          <li class="menu-items"><a href="#" class="item-text">About</a></li>
-          <li class="menu-items"><a href="#" class="item-text">Features</a></li>
+          <li class="menu-items"><a href="#mainPage" class="item-text">About</a></li>
+          <li class="menu-items"><a href="#secondPage1" class="item-text">Features</a></li>
           <li class="menu-items"><a href="#" class="item-text">Integrations</a></li>
           <li class="menu-items"><a href="#" class="item-text">Clients</a></li>
-          <li class="menu-items"><a href="#" class="item-text">Testimonials</a></li>
-          <li class="menu-items"><a href="#" class="item-text">Contact Us</a></li>
+          <li class="menu-items"><a href="#thirdPage1" class="item-text">Testimonials</a></li>
+          <li class="menu-items"><a href="#lastPage1" class="item-text">Contact Us</a></li>
         </ul>
       </div>
     </header>
-    <div class = "mainBody">
+    <div class = "mainBody" id="mainPage">
       <div class="text">
         <h1 style="color: white; font-family :'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 50px;">The Quicker, Better, Smarter Expense Management Tool</h1>
         <p style="color: white; font-family : Georgia, 'Times New Roman', Times, serif; line-height: 25px;" >Is your business caught in the red-tape of endless paper trails, the righmarole of stuck approvals, faulty financial data entry and hours of number crunching? We've got you covered.</p>
@@ -37,6 +37,7 @@
    </div>
   </div>  
 
+  <div id="secondPage1">
   <h2 class="head2">Tons of Features</h2>
   <div class="secondPage">
     <div class="part1">
@@ -121,7 +122,11 @@
       </div>
     </div>
   </div>
+</div>
 
+
+  <div id="thirdPage1">
+ 
   <h2 class="head3">Read Our Rave Reviews</h2>
   <div class="thirdPage">
     <div class="rev1">
@@ -146,8 +151,10 @@
       <p class="lorem1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     </div>
   </div>
+     
+</div>
 
-  <div class="lastPage" style="background-color: #4019B2;">
+  <div class="lastPage" id="lastPage1" style="background-color: #4019B2;">
     <h2 class= "head4">Ready to Simplify your Fiances?</h2>
     <div class="finalGrid">
       <div class="ContactContainer1">
